@@ -16,7 +16,10 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 5. Top 10 Total Vehicles by Model: Visualization: Tree map Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 Dashboard:
-![EV Analysis Dashboard 01-04-2024 17_08_46](https://github.com/mukuldhote/EV-Sales-Dashboards/assets/96618239/6f18ee67-2a37-46c9-99fd-284d15bc71c0)
+![EV Analysis Dashboard 01-04-2024 17_08_46](https://github.com/mukuldhote/EV-Sales-Dashboards/assets/96618239/5bfd4b65-f384-45d7-8f9d-1434cdb62e61)
+
+
+
 
 
 
